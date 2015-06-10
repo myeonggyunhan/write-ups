@@ -1,0 +1,2 @@
+This is "doraemon.txt"
+Originally it is ASCII-ART of doraemon... but I don't have origianl "doraemon.txt" :(
