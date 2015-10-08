@@ -1,0 +1,10 @@
+break *0x400600
+  commands
+    silent
+    set $rax = 0
+    return
+    continue
+  end
+break *0x4006FD
+break *0x40078b
+
