@@ -1,3 +1,7 @@
+# Antidebug
+We can just deactive ptrace by using PEDA's deactive function.
+(e.g. gdb-peda$ deactive ptrace ) 
+
 # Table
 ```
 'w' -> 10
@@ -12,11 +16,14 @@
 'n' -> 1
 ```
 
-5 -> r
-2 -> o
-7 -> t
-2 -> o
-5 -> r
-6 -> s
+# Answer key
+```
+5 -> 'r'
+2 -> 'o'
+7 -> 't'
+2 -> 'o'
+5 -> 'r'
+6 -> 's'
 
 Answer: rotors
+```

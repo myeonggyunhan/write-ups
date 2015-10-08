@@ -3,3 +3,6 @@ flag
 
 # Vim
 .*.sw[op]
+
+# gdb history files
+.gdb_history
